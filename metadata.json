@@ -1,0 +1,10 @@
+{
+  "name": "Visual Assistant AI",
+  "description": "An interactive visual assistant that identifies objects using your camera and answers questions about them using voice commands.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "prompt": ""
+}

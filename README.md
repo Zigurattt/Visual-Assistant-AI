@@ -28,13 +28,12 @@ An interactive, multi-lingual visual assistant that identifies objects, translat
 *   **📱 QR & Barcode Scanner**: A built-in utility to quickly scan and open links from QR codes and barcodes.
 *   **🌐 Multi-Language Support**: Fully localized UI and AI responses in English, Turkish, Spanish, Portuguese, and German.
 *   **🎨 Theming**: Switch between a sleek light and dark mode.
-*   **🔐 User Authentication**: A complete user registration and login flow with real-time email verification via Disify (a free, keyless service).
+*   **🔐 User Authentication**: A complete user registration and login flow with a simulated email verification step.
 
 ## 🛠️ Tech Stack
 
 *   **Frontend**: React, TypeScript, Tailwind CSS
 *   **AI & Vision**: Google Gemini API (`@google/genai`)
-*   **Email Verification**: Disify API
 *   **Web APIs**:
     *   Web Speech API (SpeechRecognition & SpeechSynthesis)
     *   Geolocation API

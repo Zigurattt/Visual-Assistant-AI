@@ -6,7 +6,7 @@
 
 An interactive, multi-lingual visual assistant that identifies objects, translates text, and provides insightful analysis using your device's camera and the power of Google's Gemini AI. This application runs entirely in the browser with no build step required.
 
-![Visual Assistant AI Screenshot](https://imgur.com/a/zRow2Vv)
+![Visual Assistant AI Screenshot](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE0NzA1NWk1c2dtMDQ1Z3p6dnVqeWp3ZG41cG5pMWt4bmY2aGE4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcvj98kjXquhX83TEg/giphy.gif)
 *(A GIF showcasing some of the app's features)*
 
 ---
